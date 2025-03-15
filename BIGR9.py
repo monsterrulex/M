@@ -1,2 +1,2 @@
-from bigra2 import superuser
+from BIGR9 import superuser
 superuser()
