@@ -1,2 +1,2 @@
-from M9H9R import main
-main()
+from M9H9R import menu
+menu()
